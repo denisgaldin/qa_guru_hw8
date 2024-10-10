@@ -3,7 +3,7 @@
 """
 import pytest
 
-from homework.models import Product
+from models import Product
 
 
 @pytest.fixture
